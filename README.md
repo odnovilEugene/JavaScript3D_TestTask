@@ -1,4 +1,4 @@
-### To run the project do the following steps:
+# To run the project do the following steps:
 ## For client:
     1. cd client
     2. npm install
